@@ -1,7 +1,7 @@
 
-import React, { Component } from 'react';
+import React from 'react';
 
-class SimpleComponent extends Component {
+class SimpleComponent extends React.Component {
   constructor(props) {
     super(props);
 
@@ -20,4 +20,4 @@ class SimpleComponent extends Component {
   }
 }
 
-export default SimpleComponent;
+export default SimpleComponent;  

@@ -10,4 +10,4 @@ ReactDOM.render(
     <SimplerComponent handleClick={() => alert("clicked!")} />
   </div>,
   document.getElementById('root')
-);
+); 
